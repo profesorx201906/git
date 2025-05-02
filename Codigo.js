@@ -1,3 +1,3 @@
 let x;
-x=10;
+x=12;
 console.log(5*2);
